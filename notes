@@ -1,0 +1,13 @@
+Data
+
+Dimensions of Image
+  753 × 772
+
+http://matplotlib.org/users/image_tutorial.html
+
+# class matplotlib.patches.Rectangle(xy, width, height, angle=0.0, **kwargs)
+
+# Values are going to be through 1 and 100
+# Normalize values from 1023 to 100 (values range from 1 to 100)
+# When you run the python script it'll take ten seconds to average values??
+# When it goes below certain thresholds that's when it turns red
